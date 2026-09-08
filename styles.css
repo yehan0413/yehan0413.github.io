@@ -148,6 +148,7 @@ h1 {
 
 h1 span {
   color: var(--muted);
+  font-family: KaiTi, STKaiti, "Kaiti SC", "Noto Serif CJK SC", serif;
   font-size: 0.72em;
   font-weight: 500;
 }
